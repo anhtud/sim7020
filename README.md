@@ -4,7 +4,7 @@ Base on: https://github.com/vshymanskyy/TinyGSM
 
 ## Hardware
 
--   SIM7020
+-   SIM7020: Insert 4G sim (sufficient 4G data), and antenna
 -   Any MCU
 -   Require SIM7020 pin connection: Vin (3V3), GND, RST, TX, RX
 
