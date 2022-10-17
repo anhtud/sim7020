@@ -18,7 +18,7 @@ Any **microcontroller** that Arduino supports.
 
 ## In code configuration
 
-For simplest program, you only need to work with _configure.h_
+For simplest program, you only need to work with _config.h_
 
 Firstly, configure hardware profile, include debug serial, nbiot serial and reset pin. If your board doesn't have enough serial for debug and nbiot, you can use software serial in _SoftwareSerial.h_
 
