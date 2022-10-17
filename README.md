@@ -1,5 +1,7 @@
 # Arduino Library for SIM7020
 
+Simplify, specialize TinyGSM for SIM7020 (NB-IoT)
+
 Base on: https://github.com/vshymanskyy/TinyGSM
 
 ## Hardware
