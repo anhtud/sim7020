@@ -1,5 +1,7 @@
 # Arduino Library for SIM7020
 
+Base on: https://github.com/vshymanskyy/TinyGSM
+
 ## Hardware
 
 -   SIM7020
